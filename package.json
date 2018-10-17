@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-is-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "util is string",
   "main": "index.js",
   "scripts": {

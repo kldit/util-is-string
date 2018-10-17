@@ -1,0 +1,23 @@
+{
+  "name": "@kldit/util-is-string",
+  "version": "1.0.0",
+  "description": "util is string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kldit/util-is-string.git"
+  },
+  "author": "Orlando Leite <orlando@webdefault.com.br>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kldit/util-is-string/issues"
+  },
+  "homepage": "https://github.com/kldit/util-is-string#readme",
+  "keywords": [
+    "is string",
+    "check"
+  ]
+}

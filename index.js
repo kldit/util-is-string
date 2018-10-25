@@ -3,5 +3,7 @@
  *
  * util functions
  */
-
-String.isString = function (v) { return v != null && v.constructor === String };
+if(!String.isString)
+{
+    String.isString = function (v) { return v != null && v.constructor === String };
+}
